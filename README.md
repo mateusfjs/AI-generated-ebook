@@ -7,7 +7,7 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 ChatGPT
 Google apresentações
 
-##Prompts
+## Prompts
 
 faça um texto pra ebook, com foco em STRING na lingaugem de programação JAVASCRIPT, listando os pricipais metodos com exemplos em codigo 
 
