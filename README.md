@@ -13,8 +13,8 @@ faça um texto pra ebook, com foco em STRING na lingaugem de programação JAVAS
 
 {REGRAS}
 
->Explçique sempre de maneira simples 
->Deixe o texto enxuto
->sempre traga exemplos de codigo em contextos reais 
->sempre deixe um titulo sujestivo por topico 
->total de 20 topicos 
+- Explçique sempre de maneira simples 
+- Deixe o texto enxuto
+- sempre traga exemplos de codigo em contextos reais 
+- sempre deixe um titulo sujestivo por topico 
+- total de 20 topicos 
